@@ -1,7 +1,3 @@
-¡Claro que sí! Aquí tienes un **README.md** ideal para tu repositorio. Este archivo explica cómo configurar, ejecutar y usar tu bot de Telegram para recordatorios. 🚀
-
----
-
 ## **Telegram Reminder Bot**
 
 ¡Bienvenido a **Telegram Reminder Bot**! 🤖  
@@ -178,4 +174,3 @@ Algunas ideas para extender y personalizar este bot:
 ### **Licencia** 📜
 Este proyecto está licenciado bajo la [MIT License](LICENSE).
 
----
