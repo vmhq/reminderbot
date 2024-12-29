@@ -1,0 +1,11 @@
+version: '3.8'  # Versión de Docker Compose
+
+services:
+  bot:
+    container_name: telegram-reminder-bot  # Nombre del contenedor
+    build: .
+    restart: unless-stopped  # Reinicia el contenedor si falla
+    env_file:
+      - .env  # Cargar claves desde .env
+    volumes:
+      - .:/app  # Montar el directorio actual dentro del contenedor
